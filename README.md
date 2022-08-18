@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/foodnailstech" target="blank"><img src="https://img.shields.io/twitter/follow/foodnailstech?logo=twitter&style=for-the-badge" alt="foodnailstech" /></a> </p>
 
-- 🔭 I’m currently working on **my first 100 hrs project!**
+- 🔭 I’m currently working on **a 100 hrs project!**
 
 - 🌱 I’m currently learning **JavaScript**
 
